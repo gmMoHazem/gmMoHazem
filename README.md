@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmMoHazem
-- 👀 I’m interested in Python, C++, and Java Script
+- 👀 I’m interested in Python, C++, and JavaScript
 
 <!---
 gmMoHazem/gmMoHazem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
